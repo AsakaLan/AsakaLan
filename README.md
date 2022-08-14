@@ -1,4 +1,5 @@
-- 🔭 I’m currently working on Playing
-- 🌱 I’m currently learning Golang/Python
-- 📫 How to reach me:Codehang_fight@163.com
-
+Hello World 👋
+🧐 College students, the main direction is back-end development
+🚀 Programming language： Go Python
+✨ Tools： Golang VSCode Git
+📫 Email：codehang_fight@163.com
