@@ -1,8 +1,5 @@
-- 🔭 I’m currently working on …
-- 🌱 I’m currently learning …
-- 👯 I’m looking to collaborate on …
+- 🔭 I’m currently working on Playing
+- 🌱 I’m currently learning Golang/Python
 - 🤔 I’m looking for help with …
-- 💬 Ask me about …
-- 📫 How to reach me: …
-- 😄 Pronouns: …
-- ⚡ Fun fact: …
+- 📫 How to reach me:Codehang_fight@163.com
+
