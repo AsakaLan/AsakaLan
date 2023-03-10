@@ -5,7 +5,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Information Security at CWNU .
-- 💼 &nbsp; Working as a Business Development Associate at -(***secret).
 - 🌱 &nbsp; Learning more about Web Develop.
 - ✍️ &nbsp; Blog Writing as hobbies.
 
