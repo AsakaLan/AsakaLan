@@ -26,6 +26,6 @@
 
 <br/>
 <a href="https://github.com/AsakaLan">
-  <img height="180em" src="https://github-readme-stats-xuthus5.vercel.app/api?username=xuthus5&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-xuthus5.vercel.app/api/top-langs/?username=xuthus5&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-xuthus5.vercel.app/api?username=AsakaLan&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-xuthus5.vercel.app/api/top-langs/?username=AsakaLan&theme=buefy&layout=compact" />
 </a>
