@@ -25,3 +25,7 @@
   ![kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
 
 <br/>
+<a href="https://github.com/AsakaLan">
+  <img height="180em" src="https://github-readme-stats-xuthus5.vercel.app/api?username=xuthus5&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-xuthus5.vercel.app/api/top-langs/?username=xuthus5&theme=buefy&layout=compact" />
+</a>
