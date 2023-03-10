@@ -9,9 +9,14 @@
   ![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+- 🌐 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
+  ![Etcd](https://img.shields.io/badge/-etcd-333333?style=flat&logo=etcd)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
